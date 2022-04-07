@@ -1,0 +1,82 @@
+[
+  {
+    "stats": {
+      "replies": 0,
+      "retuits": 0,
+      "likes": 1,
+      "dislikes": 0
+    },
+    "_id": "6248a077990a35dfd8ac48df",
+    "tuit": "Test1",
+    "postedBy": {
+      "_id": "6248a06f990a35dfd8ac48db",
+      "username": "alice",
+      "password": "$2b$10$vOkvkh8ChgqYrnwzHoswp.CB4BN1QyG5Tm2GUtxajr.A1YplHOhv2",
+      "email": "1@1.com",
+      "salary": 50000,
+      "__v": 0
+    },
+    "postedOn": "2022-04-02T19:13:59.754Z",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "replies": 0,
+      "retuits": 0,
+      "likes": 1,
+      "dislikes": 0
+    },
+    "_id": "6248a0a1990a35dfd8ac48f6",
+    "tuit": "Test1",
+    "postedBy": {
+      "_id": "6248a099990a35dfd8ac48f2",
+      "username": "bob",
+      "password": "$2b$10$7D3V3zLzGITEOqEYW7Hm3.FMyFpNM5fMlLZRXQZwG9wsbYhFZ03BG",
+      "email": "2@2.com",
+      "salary": 50000,
+      "__v": 0
+    },
+    "postedOn": "2022-04-02T19:14:41.437Z",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "replies": 0,
+      "retuits": 0,
+      "likes": 2,
+      "dislikes": 1
+    },
+    "_id": "6248a07e990a35dfd8ac48e7",
+    "tuit": "Test3",
+    "postedBy": {
+      "_id": "6248a06f990a35dfd8ac48db",
+      "username": "alice",
+      "password": "$2b$10$vOkvkh8ChgqYrnwzHoswp.CB4BN1QyG5Tm2GUtxajr.A1YplHOhv2",
+      "email": "1@1.com",
+      "salary": 50000,
+      "__v": 0
+    },
+    "postedOn": "2022-04-02T19:14:06.517Z",
+    "__v": 0
+  },
+  {
+    "stats": {
+      "replies": 0,
+      "retuits": 0,
+      "likes": 1,
+      "dislikes": 0
+    },
+    "_id": "6248a07b990a35dfd8ac48e3",
+    "tuit": "Test2",
+    "postedBy": {
+      "_id": "6248a06f990a35dfd8ac48db",
+      "username": "alice",
+      "password": "$2b$10$vOkvkh8ChgqYrnwzHoswp.CB4BN1QyG5Tm2GUtxajr.A1YplHOhv2",
+      "email": "1@1.com",
+      "salary": 50000,
+      "__v": 0
+    },
+    "postedOn": "2022-04-02T19:14:03.593Z",
+    "__v": 0
+  }
+]
